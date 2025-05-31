@@ -1,4 +1,4 @@
-# Practica-2-Configuraci-n-de-parametros-de-red.-Laboratorios-del-modulo-I
+# Comandos usados practica 2 de configuracion de red o parametros de la red
 1  ip a
 2  jjk
 3  ip a
